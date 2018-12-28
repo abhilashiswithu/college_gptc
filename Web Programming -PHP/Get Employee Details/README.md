@@ -1,4 +1,5 @@
-GET EMPLOYEE DETAILS
+                                                   GET EMPLOYEE DETAILS
+                                                   ====================
 
 *) Using AJAX,PHP,MySql
 
