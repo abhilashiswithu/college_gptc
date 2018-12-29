@@ -1,0 +1,3 @@
+JAVA APPLET
+
+*) GUI
