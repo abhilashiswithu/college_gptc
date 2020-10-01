@@ -1,8 +1,8 @@
 # JavaScript Assignment 2 - Analog Clock
 - [Preview](#preview)
-- [index.html](#preview)
-- [Preview](#preview)
-- [Preview](#preview)
+- [index.html](#indexhtml)
+- [style.css](#stylecss)
+- [script.js](#scriptjs)
 
 ## Preview
 ![GIT](preview.png "Preview")
