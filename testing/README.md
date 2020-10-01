@@ -4,10 +4,10 @@
 - [Preview](#preview)
 - [Preview](#preview)
 
-##Preview
+## Preview
 ![GIT](preview.png "Preview")
 
-##index.html
+## index.html
 ```
 <!DOCTYPE html>
 <html>
@@ -30,7 +30,7 @@
 </body>
 </html>
 ```
-##style.css
+## style.css
 ```
 body {
 	  min-width: 100vw;
@@ -120,7 +120,7 @@ body {
 	/* second hand style ends */
 ```
 
-##script.js
+## script.js
 ```
 // grab a reference of every hands
 
