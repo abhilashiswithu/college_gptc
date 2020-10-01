@@ -5,7 +5,7 @@
 - [script.js](#scriptjs)
 
 ## Preview
-![GIT](preview.png "Preview")
+![GIT](img/preview.png "Preview")
 
 ## index.html
 ```
