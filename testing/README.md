@@ -164,4 +164,4 @@ body {
 ```
 
 * * *
-[Back to Top](#javascript-assignment-2---analog-clock)
+[Back to Top](#javascript-assignment-1---analog-clock)
