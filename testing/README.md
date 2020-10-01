@@ -1,2 +1,3 @@
+# JavaScript Assignment 2 - Analog Clock
 
-Testing
+![GIT](preview.png "Preview")
