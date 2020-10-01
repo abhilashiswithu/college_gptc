@@ -1,4 +1,4 @@
-# JavaScript Assignment 2 - Analog Clock
+# JavaScript Assignment 1 - Analog Clock
 - [Preview](#preview)
 - [index.html](#indexhtml)
 - [style.css](#stylecss)
