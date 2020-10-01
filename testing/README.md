@@ -164,4 +164,4 @@ body {
 ```
 
 * * *
-[Back to Top](#basic-git-commands)
+[Back to Top](#javascript-assignment-2---analog-clock)
