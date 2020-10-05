@@ -2,6 +2,7 @@
 
 - [Style](assets/css)
 - [Script](assets/js)
+- [Images](assets/images)
 - [Font](assets/fonts)
 - [Preview](#preview)
 	- [Web View](#web-view)
