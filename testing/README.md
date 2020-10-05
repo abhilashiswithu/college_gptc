@@ -7,8 +7,11 @@
 - [Preview](#preview)
 
 ## Preview
+### Web View
 ![GIT](assets/images/1.png "Web View")
+### Success Message
 ![GIT](assets/images/2.png "Success Message")
+### Mobile View
 ![GIT](assets/images/3.png "Mobile View")
 
 ## Validation
@@ -56,4 +59,4 @@
 
 
 * * *
-[Back to Top](#HTML-CSS Assignment - Signup Form for a Volunteer Program)
+[Back to Top](#html-css-assignment---signup-form-for-a-volunteer-program)
