@@ -5,9 +5,9 @@
 - [Script](assets/js)
 - [Font](assets/fonts)
 - [Preview](#preview)
-	- [Web View](#preview)
-	- [Success Message](#preview)
-	- [Mobile View](#preview)
+	- [Web View](#web-view)
+	- [Success Message](#success-message)
+	- [Mobile View](#mobile-view)
 
 ## Preview
 ### Web View
