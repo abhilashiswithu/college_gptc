@@ -1,6 +1,5 @@
 # HTML-CSS Assignment - Signup Form for a Volunteer Program
 
-- [Validation](#validation)
 - [Style](assets/css)
 - [Script](assets/js)
 - [Font](assets/fonts)
@@ -8,6 +7,7 @@
 	- [Web View](#web-view)
 	- [Success Message](#success-message)
 	- [Mobile View](#mobile-view)
+- [Validation](#validation)
 
 ## Preview
 ### Web View
